@@ -1,0 +1,8 @@
+Input: jumbled_video.mp4
+Frames: 300
+FPS detected: 30.0
+Workers: 6
+ORB features: 500
+Two-opt iters: 600
+Total runtime: 8009.94s
+Output: reconstructed_fixed.mp4
